@@ -1,1 +1,2 @@
-# Introdu-o_a_computa-o
+# Introducao_a_computacao
+Nesta matéria, estudamos a evolução histórica da Computação e suas tecnologias, os conceitos de arquitetura de hardware e software, a importância da informação e dos sistemas de informação, além dos fundamentos de redes de computadores e Internet. Também aprendemos noções de segurança da informação, governança e gestão de TI, explorando tendências e novas tecnologias. Esses conteúdos contribuíram para ampliar nossa compreensão dos principais conceitos da Ciência da Computação e de suas aplicações.
